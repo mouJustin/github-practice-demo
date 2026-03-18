@@ -1,0 +1,2 @@
+This repository was created to practice GitHub basics.
+I learned how repositories, commits, branches, and pull requests work.
