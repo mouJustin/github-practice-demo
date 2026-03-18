@@ -1,0 +1,5 @@
+creating a repository
+making commits
+creating branches
+opening pull requests
+merging changes
